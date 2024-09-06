@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbc089ad-ab84-4d7b-8370-8a5bee08e5ab" name="Changes" comment="next strapi project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2iSfwK7qeCJkOUaUSvKdIP2hl9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gyakorlas/epic-next-course&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\gyakorlas\\epic-next-course\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gyakorlas\epic-next-course\backend\.tmp" />
+      <recent name="D:\gyakorlas\epic-next-course\frontend\src\app\dashboard\summaries" />
+      <recent name="D:\gyakorlas\epic-next-course" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbc089ad-ab84-4d7b-8370-8a5bee08e5ab" name="Changes" comment="" />
+      <created>1719489137111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719489137111</updated>
+      <workItem from="1719489138431" duration="809000" />
+      <workItem from="1719496824032" duration="73000" />
+      <workItem from="1719496911438" duration="2980000" />
+      <workItem from="1719554798938" duration="23654000" />
+      <workItem from="1719819331354" duration="8830000" />
+      <workItem from="1719917591346" duration="14000" />
+      <workItem from="1719919065854" duration="6180000" />
+      <workItem from="1720104030081" duration="78000" />
+      <workItem from="1720104568802" duration="667000" />
+      <workItem from="1720174706209" duration="5502000" />
+      <workItem from="1720508439084" duration="1060000" />
+      <workItem from="1720519863078" duration="17000" />
+      <workItem from="1720790219975" duration="5051000" />
+      <workItem from="1720856403996" duration="2813000" />
+      <workItem from="1720866672853" duration="1012000" />
+      <workItem from="1721023982359" duration="3880000" />
+      <workItem from="1721042355337" duration="1193000" />
+      <workItem from="1721121789286" duration="1591000" />
+      <workItem from="1721196439189" duration="1477000" />
+      <workItem from="1721285365582" duration="12000" />
+      <workItem from="1721398255869" duration="1516000" />
+      <workItem from="1721628235663" duration="1205000" />
+      <workItem from="1721736783071" duration="368000" />
+      <workItem from="1721918217466" duration="654000" />
+      <workItem from="1721973833922" duration="216000" />
+      <workItem from="1721974066791" duration="4000" />
+      <workItem from="1721982118518" duration="1812000" />
+      <workItem from="1721997570616" duration="750000" />
+      <workItem from="1725607273110" duration="1557000" />
+    </task>
+    <task id="LOCAL-00001" summary="next strapi project">
+      <option name="closed" value="true" />
+      <created>1725608721960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725608721960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next strapi project" />
+    <option name="LAST_COMMIT_MESSAGE" value="next strapi project" />
+  </component>
+</project>
